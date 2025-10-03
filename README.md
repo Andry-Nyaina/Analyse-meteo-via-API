@@ -38,4 +38,4 @@ python main.py
 ```
 
 ## 💡 Exemple d'utilisation
-<img width="613" height="62" alt="image" src="https://github.com/user-attachments/assets/2d22b96d-5aca-46c1-b60f-ecc758cf663f" />
+<img width="636" height="119" alt="image" src="https://github.com/user-attachments/assets/128de301-acbf-434a-b9a1-f7fb318a9c12" />
